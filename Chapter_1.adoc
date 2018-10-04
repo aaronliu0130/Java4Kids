@@ -24,8 +24,8 @@ But enough talk. Let’s start learning Java.
 
 === Installing Java on Your Computer
 
-To start programming in Java you need to download the Java Development Kit (JDK) from the company called Oracle, which makes releases and updates of Java versions. The full name of the software to download is Java SE Development Kit. We'll download the  Java SE 8, which was the latest version of Java available while writing this book. Just visit   
-http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html[Oracle's Web site]. Accept the license agreement and select the proper link depending on the Operational System (OS) installed on your computer. 
+To start programming in Java you need to download the Java Development Kit (JDK) from the company called Oracle, which makes releases and updates of Java versions. The full name of the software to download is Java SE Development Kit. We'll download the  Java SE 10, which was the latest version of Java available while writing this book. Just visit   
+https://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html[Oracle's Web site]. Accept the license agreement and select the proper link depending on the Operational System (OS) installed on your computer. 
 
 NOTE: While Java programmers need JDK installed, the users of your applications need to have Java Runtime Environment (JRE) installed on their machines. JRE is included in JDK, but can be downloaded separately as well.
 
